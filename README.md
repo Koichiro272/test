@@ -1,3 +1,3 @@
 # test
 練習用のリポジトリです。
-to update what will be committed
+本日は2023/11/05です。
